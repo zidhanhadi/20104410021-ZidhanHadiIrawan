@@ -1,6 +1,6 @@
 # flutter_application_livecoding
 
-A new Flutter project.
+Zidhan Hadi Irawan (20104410021)
 
 ## Getting Started
 
